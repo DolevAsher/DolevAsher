@@ -52,7 +52,7 @@ AI and computer science
 
 <!-- ======================= GITHUB STATS ======================= -->
 
-<h2> > GITHUB_STATS_</h2>
+<h2> GITHUB STATS </h2>
 
 <br>
 
@@ -76,7 +76,7 @@ AI and computer science
 
 <!-- ======================= LANGUAGES ======================= -->
 
-<h2> > LANGUAGES_</h2>
+<h2> LANGUAGES </h2>
 
 <br><br>
 
@@ -86,28 +86,24 @@ AI and computer science
 <td align="center" width="150">
 
 <a target="blank"><img src="Icons/python.png" width="50" />
-<b>Python</b>
 
 </td>
 
 <td align="center" width="150">
 
 <a target="blank"><img src="Icons/c++.png" width="50" />
-<b>C / C++</b>
 
 </td>
 
 <td align="center" width="150">
 
 <a target="blank"><img src="Icons/java.png" width="50" />
-<b>Java</b>
 
 </td>
 
 <td align="center" width="150">
 
 <a target="blank"><img src="Icons/VBA.png" width="50" />
-<b>VBA</b>
 
 </td>
 
@@ -118,7 +114,7 @@ AI and computer science
 
 <!-- ======================= TOOLS ======================= -->
 
-<h2> > TOOLS_&_TECHNOLOGIES_</h2>
+<h2> TOOLS & TECHNOLOGIES </h2>
 
 <br><br>
 
@@ -150,32 +146,3 @@ AI and computer science
 </table>
 
 <br>
-
-<!-- ======================= SEPARATOR ======================= -->
-
-<img src="assets/matrix_screen.gif" width="100%" height="3" alt="separator">
-
-<br>
-
-<!-- ======================= CURRENT PROJECT ======================= -->
-
-<h2> > CURRENT_PROJECT_</h2>
-
-<br>
-
-<table align="center">
-<tr>
-<td align="center">
-
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│              waypointInterception            │
-│                                              │
-│        Genetic Algorithm                    │
-│                                              │
-│        > optimizing waypoints...             │
-│        > evolving solutions...               │
-│        > searching solution space...         │
-│                                              │
-└──────────────────────────────────────────────┘
