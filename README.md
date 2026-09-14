@@ -6,16 +6,6 @@
 <tr>
 <td align="center">
 
-<img
-  src="assets/matrix_screen2.gif"
-  width="100%"
-  alt="Matrix background"
->
-
-<h1 style="margin-top:-220px; position:relative;">
-  <code>> whoami</code>
-</h1>
-
 <h1 style="position:relative;">
   DOLEV ASHER
 </h1>
@@ -38,14 +28,14 @@
 
 <!-- ======================= ABOUT ======================= -->
 
-<h2> > ABOUT_ME_</h2>
+<h2> ABOUT ME</h2>
 
 <p>
 🎓 3rd Year B.Sc. Computer Science Student
 </p>
 
 <p>
-💼 Software Engineer @ <b>Mobileye</b>
+💼 Embedded SW & CPU Performance Engineer @ <b>Mobileye</b>
 </p>
 
 <p>
@@ -57,12 +47,6 @@ using a <b>Genetic Algorithm</b>
 💡 Interested in algorithms, software engineering,
 AI and computer science
 </p>
-
-<br>
-
-<!-- ======================= SEPARATOR ======================= -->
-
-<img src="assets/matrix_screen.gif" width="100%" height="3" alt="separator">
 
 <br>
 
@@ -90,22 +74,9 @@ AI and computer science
 
 <br><br>
 
-<!-- ======================= SEPARATOR ======================= -->
-
-<img src="assets/matrix_screen.gif" width="100%" height="3" alt="separator">
-
-<br>
-
 <!-- ======================= LANGUAGES ======================= -->
 
 <h2> > LANGUAGES_</h2>
-
-<br>
-
-<img
-  src="https://skillicons.dev/icons?i=python,cpp,java"
-  alt="Python C++ Java"
->
 
 <br><br>
 
@@ -114,18 +85,21 @@ AI and computer science
 
 <td align="center" width="150">
 
+<a target="blank"><img src="Icons/python.png" width="50" />
 <b>Python</b>
 
 </td>
 
 <td align="center" width="150">
 
+<a target="blank"><img src="Icons/c++.png" width="50" />
 <b>C / C++</b>
 
 </td>
 
 <td align="center" width="150">
 
+<a target="blank"><img src="Icons/java.png" width="50" />
 <b>Java</b>
 
 </td>
@@ -145,13 +119,6 @@ AI and computer science
 
 <h2> > TOOLS_&_TECHNOLOGIES_</h2>
 
-<br>
-
-<img
-  src="https://skillicons.dev/icons?i=linux,git"
-  alt="Linux Git"
->
-
 <br><br>
 
 <table align="center">
@@ -159,21 +126,21 @@ AI and computer science
 
 <td align="center" width="180">
 
-🐧<br>
+<a target="blank"><img src="Icons/linux.png" width="50" />
 <b>Linux</b>
 
 </td>
 
 <td align="center" width="180">
 
-🔀<br>
+<a target="blank"><img src="Icons/git.png" width="50" />
 <b>Git</b>
 
 </td>
 
 <td align="center" width="180">
 
-📊<br>
+<a target="blank"><img src="Icons/microsoft_office.png" width="50" />
 <b>Microsoft Office</b>
 
 </td>
