@@ -1,0 +1,340 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    background: #000;
+    color: #fff;
+
+    font-family:
+        "Courier New",
+        Courier,
+        monospace;
+}
+
+
+/* ========================================================= */
+/* MATRIX BACKGROUND                                         */
+/* ========================================================= */
+
+.matrix-background {
+    position: fixed;
+
+    top: 0;
+    left: 0;
+
+    width: 100vw;
+    height: 100vh;
+
+    object-fit: cover;
+
+    z-index: -2;
+}
+
+
+/* ========================================================= */
+/* DARK OVERLAY                                               */
+/* ========================================================= */
+
+.matrix-overlay {
+    position: fixed;
+
+    inset: 0;
+
+    background:
+        rgba(0, 0, 0, 0.58);
+
+    z-index: -1;
+
+    pointer-events: none;
+}
+
+
+/* ========================================================= */
+/* CONTENT                                                    */
+/* ========================================================= */
+
+.content {
+    position: relative;
+
+    width: min(1100px, 92%);
+
+    margin: 0 auto;
+
+    padding-bottom: 100px;
+}
+
+
+/* ========================================================= */
+/* HERO                                                       */
+/* ========================================================= */
+
+.hero {
+    min-height: 100vh;
+
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+}
+
+
+.terminal {
+    width: 900px;
+    max-width: 100%;
+
+    background:
+        rgba(0, 0, 0, 0.78);
+
+    border:
+        1px solid rgba(0, 255, 100, 0.45);
+
+    box-shadow:
+        0 0 35px rgba(0, 255, 100, 0.15);
+}
+
+
+.terminal-bar {
+    height: 35px;
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 8px;
+
+    padding-left: 14px;
+
+    border-bottom:
+        1px solid rgba(0, 255, 100, 0.25);
+}
+
+
+.terminal-bar span {
+    width: 10px;
+    height: 10px;
+
+    border-radius: 50%;
+
+    background: #444;
+}
+
+
+.terminal-content {
+    padding: 60px;
+}
+
+
+.terminal-command {
+    opacity: 0.7;
+}
+
+
+.terminal h1 {
+    font-size: clamp(40px, 7vw, 80px);
+
+    margin: 15px 0;
+
+    text-shadow:
+        0 0 20px rgba(255,255,255,0.4);
+}
+
+
+.typing {
+    font-size: 25px;
+
+    animation:
+        blink 1s infinite;
+}
+
+
+@keyframes blink {
+
+    50% {
+        opacity: 0.4;
+    }
+
+}
+
+
+/* ========================================================= */
+/* PANELS                                                     */
+/* ========================================================= */
+
+.panel {
+    margin-bottom: 70px;
+
+    padding: 45px;
+
+    background:
+        rgba(0, 0, 0, 0.72);
+
+    border:
+        1px solid rgba(0, 255, 100, 0.25);
+
+    backdrop-filter:
+        blur(5px);
+
+    box-shadow:
+        0 0 30px rgba(0, 0, 0, 0.5);
+}
+
+
+.panel h2 {
+    margin-top: 0;
+
+    margin-bottom: 35px;
+
+    letter-spacing: 4px;
+
+    font-size: 25px;
+}
+
+
+/* ========================================================= */
+/* STATS                                                       */
+/* ========================================================= */
+
+.stats {
+    display: flex;
+
+    flex-wrap: wrap;
+
+    justify-content: center;
+
+    gap: 20px;
+}
+
+
+.stats img {
+    max-width: 100%;
+
+    height: auto;
+}
+
+
+/* ========================================================= */
+/* PROJECTS                                                    */
+/* ========================================================= */
+
+.projects {
+    display: grid;
+
+    grid-template-columns:
+        repeat(2, 1fr);
+
+    gap: 20px;
+}
+
+
+.project {
+    padding: 30px;
+
+    color: white;
+
+    text-decoration: none;
+
+    background:
+        rgba(0, 0, 0, 0.65);
+
+    border:
+        1px solid rgba(0, 255, 100, 0.25);
+
+    transition:
+        transform 0.2s,
+        border-color 0.2s;
+}
+
+
+.project:hover {
+    transform: translateY(-5px);
+
+    border-color:
+        rgba(0, 255, 100, 0.8);
+}
+
+
+.project h3 {
+    margin-top: 0;
+}
+
+
+/* ========================================================= */
+/* STACK                                                       */
+/* ========================================================= */
+
+.stack {
+    display: flex;
+
+    flex-wrap: wrap;
+
+    gap: 12px;
+}
+
+
+.stack-item {
+    padding: 12px 18px;
+
+    border:
+        1px solid rgba(0, 255, 100, 0.35);
+
+    background:
+        rgba(0, 0, 0, 0.6);
+}
+
+
+/* ========================================================= */
+/* CURRENTLY                                                   */
+/* ========================================================= */
+
+.current {
+    line-height: 2;
+}
+
+
+.current span {
+    display: inline-block;
+
+    width: 130px;
+
+    font-weight: bold;
+}
+
+
+/* ========================================================= */
+/* FOOTER                                                      */
+/* ========================================================= */
+
+footer {
+    text-align: center;
+
+    opacity: 0.65;
+
+    padding: 50px 0;
+}
+
+
+/* ========================================================= */
+/* MOBILE                                                      */
+/* ========================================================= */
+
+@media (max-width: 700px) {
+
+    .terminal-content {
+        padding: 35px 25px;
+    }
+
+    .panel {
+        padding: 25px;
+    }
+
+    .projects {
+        grid-template-columns: 1fr;
+    }
+
+}
