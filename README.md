@@ -3,7 +3,7 @@
 <div align="center">
 
 <img
-  src="assets/matrix-small-480.gif"
+  src="assets/matrix_screen2.gif"
   width="100%"
   alt="Matrix background animation"
 />
