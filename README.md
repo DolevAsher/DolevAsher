@@ -1,273 +1,213 @@
-<!-- ======================= MATRIX HEADER ======================= -->
-
 <div align="center">
 
-<img src="assets/matrix_screen2.gif" width="100%" alt="Matrix background">
+<!-- ======================= MATRIX TITLE ======================= -->
 
-<br><br>
+<table width="100%">
+<tr>
+<td align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=1800&color=00FF41&center=true&vCenter=true&width=940&height=60&lines=Hey%2C+I'm+Dolev+Asher!;Welcome+to+my+GitHub!;I+build%2C+learn%2C+and+experiment." alt="Typing animation">
+<img
+  src="assets/matrix_screen2.gif"
+  width="100%"
+  alt="Matrix background"
+>
+
+<h1 style="margin-top:-220px; position:relative;">
+  <code>> whoami</code>
+</h1>
+
+<h1 style="position:relative;">
+  DOLEV ASHER
+</h1>
+
+<h3 style="position:relative;">
+  Computer Science Student • Software Engineer @ Mobileye
+</h3>
 
 <br>
 
-### Software Engineer — AI • Cyber Security • Software Engineering
+<p style="position:relative;">
+  <code>Welcome to my GitHub</code>
+</p>
 
-</div>
+</td>
+</tr>
+</table>
 
 <br>
-
----
 
 <!-- ======================= ABOUT ======================= -->
 
-<div align="center">
+<h2> > ABOUT_ME_</h2>
 
-## `> ABOUT_ME`
+<p>
+🎓 3rd Year B.Sc. Computer Science Student
+</p>
 
-</div>
+<p>
+💼 Software Engineer @ <b>Mobileye</b>
+</p>
 
-<div align="center">
+<p>
+🧬 Currently working on <b>waypointInterception</b>
+using a <b>Genetic Algorithm</b>
+</p>
 
-🔭 Currently working on **YOUR PROJECT**
-
-🌱 Currently learning **YOUR SUBJECT**
-
-💡 Interested in **AI • Cyber Security • Software Engineering**
-
-🎯 Goal: **YOUR GOAL**
-
-</div>
+<p>
+💡 Interested in algorithms, software engineering,
+AI and computer science
+</p>
 
 <br>
 
-<div align="center">
+<!-- ======================= SEPARATOR ======================= -->
 
-<img src="assets/matrix_screen2.gif" width="100%" height="3" alt="separator">
+<img src="assets/matrix_screen.gif" width="100%" height="3" alt="separator">
 
-</div>
+<br>
 
 <!-- ======================= GITHUB STATS ======================= -->
 
-<div align="center">
-
-## `> GITHUB_STATS`
+<h2> > GITHUB_STATS_</h2>
 
 <br>
 
 <a href="https://github.com/DolevAsher">
 
-<img height="180em"
-src="https://streak-stats.demolab.com?user=DolevAsher&theme=cobalt&hide_border=true&border_radius=0&background=193549"
-alt="GitHub Streak">
+<img
+  height="180em"
+  src="https://streak-stats.demolab.com?user=DolevAsher&theme=cobalt&hide_border=true&border_radius=0&background=193549"
+  alt="GitHub Streak"
+/>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=DolevAsher&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&hide_border=true&border_radius=0"
-alt="GitHub Statistics">
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=DolevAsher&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&hide_border=true&border_radius=0"
+  alt="GitHub Statistics"
+/>
 
 </a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="assets/matrix_screen2.gif" width="100%" height="3" alt="separator">
-
-</div>
-
-<!-- ======================= LINKS ======================= -->
-
-<div align="center">
-
-## `> CONNECT`
-
-<br>
-
-<a href="https://github.com/DolevAsher">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub">
-</a>
-
-&nbsp;
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn">
-</a>
-
-&nbsp;
-
-<a href="YOUR_WEBSITE_URL">
-<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=00FF41" alt="Website">
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="assets/matrix_screen2.gif" width="100%" height="3" alt="separator">
-
-</div>
-
-<!-- ======================= TECH STACK ======================= -->
-
-<div align="center">
-
-## `> TECH_STACK`
-
-<br>
-
-<table>
-<tr>
-<th>Languages</th>
-<th>Frameworks & Libraries</th>
-<th>Tools & Technologies</th>
-</tr>
-
-<tr>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=python" width="50"><br>
-Python
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=javascript" width="50"><br>
-JavaScript
+<!-- ======================= SEPARATOR ======================= -->
+
+<img src="assets/matrix_screen.gif" width="100%" height="3" alt="separator">
+
+<br>
+
+<!-- ======================= LANGUAGES ======================= -->
+
+<h2> > LANGUAGES_</h2>
+
+<br>
+
+<img
+  src="https://skillicons.dev/icons?i=python,cpp,java"
+  alt="Python C++ Java"
+>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=typescript" width="50"><br>
-TypeScript
+<table align="center">
+<tr>
+
+<td align="center" width="150">
+
+<b>Python</b>
 
 </td>
 
-<td align="center">
+<td align="center" width="150">
 
-<img src="https://skillicons.dev/icons?i=react" width="50"><br>
-React
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=nodejs" width="50"><br>
-Node.js
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=tensorflow" width="50"><br>
-TensorFlow
+<b>C / C++</b>
 
 </td>
 
-<td align="center">
+<td align="center" width="150">
 
-<img src="https://skillicons.dev/icons?i=git" width="50"><br>
-Git
+<b>Java</b>
 
-<br><br>
+</td>
 
-<img src="https://skillicons.dev/icons?i=docker" width="50"><br>
-Docker
+<td align="center" width="150">
 
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=linux" width="50"><br>
-Linux
+<b>VBA</b>
 
 </td>
 
 </tr>
 </table>
 
-</div>
+<br>
+
+<!-- ======================= TOOLS ======================= -->
+
+<h2> > TOOLS_&_TECHNOLOGIES_</h2>
 
 <br>
 
-<div align="center">
-
-<img src="assets/matrix_screen2.gif" width="100%" height="3" alt="separator">
-
-</div>
-
-<!-- ======================= FEATURED PROJECTS ======================= -->
-
-<div align="center">
-
-## `> FEATURED_PROJECTS`
-
-<br>
-
-<a href="https://github.com/DolevAsher/PROJECT_1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DolevAsher&repo=PROJECT_1&theme=cobalt&hide_border=true">
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/DolevAsher/PROJECT_2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DolevAsher&repo=PROJECT_2&theme=cobalt&hide_border=true">
-</a>
+<img
+  src="https://skillicons.dev/icons?i=linux,git"
+  alt="Linux Git"
+>
 
 <br><br>
 
-<a href="https://github.com/DolevAsher/PROJECT_3">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DolevAsher&repo=PROJECT_3&theme=cobalt&hide_border=true">
-</a>
+<table align="center">
+<tr>
 
-&nbsp;&nbsp;
+<td align="center" width="180">
 
-<a href="https://github.com/DolevAsher/PROJECT_4">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DolevAsher&repo=PROJECT_4&theme=cobalt&hide_border=true">
-</a>
+🐧<br>
+<b>Linux</b>
 
-</div>
+</td>
 
-<br>
+<td align="center" width="180">
 
-<div align="center">
+🔀<br>
+<b>Git</b>
 
-<img src="assets/matrix_screen2.gif" width="100%" height="3" alt="separator">
+</td>
 
-</div>
+<td align="center" width="180">
 
-<!-- ======================= CONTRIBUTIONS ======================= -->
+📊<br>
+<b>Microsoft Office</b>
 
-<div align="center">
+</td>
 
-## `> CONTRIBUTIONS`
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DolevAsher&theme=react-dark&hide_border=true" width="95%" alt="Contribution Graph">
-
-</div>
+</tr>
+</table>
 
 <br>
 
-<div align="center">
+<!-- ======================= SEPARATOR ======================= -->
 
-<img src="assets/matrix_screen2.gif" width="100%" height="3" alt="separator">
-
-</div>
-
-<!-- ======================= CURRENTLY ======================= -->
-
-<div align="center">
-
-## `> CURRENTLY`
+<img src="assets/matrix_screen.gif" width="100%" height="3" alt="separator">
 
 <br>
+
+<!-- ======================= CURRENT PROJECT ======================= -->
+
+<h2> > CURRENT_PROJECT_</h2>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center">
 
 ```text
 ┌──────────────────────────────────────────────┐
 │                                              │
-│  Learning       →  YOUR CURRENT SUBJECT      │
+│              waypointInterception            │
 │                                              │
-│  Building       →  YOUR CURRENT PROJECT      │
+│        Genetic Algorithm                    │
 │                                              │
-│  Exploring      →  YOUR CURRENT INTEREST     │
-│                                              │
-│  Improving      →  YOUR CURRENT SKILL        │
+│        > optimizing waypoints...             │
+│        > evolving solutions...               │
+│        > searching solution space...         │
 │                                              │
 └──────────────────────────────────────────────┘
