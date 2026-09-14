@@ -106,6 +106,7 @@ AI and computer science
 
 <td align="center" width="150">
 
+<a target="blank"><img src="Icons/VBA.png" width="50" />
 <b>VBA</b>
 
 </td>
